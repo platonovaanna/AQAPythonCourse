@@ -10,7 +10,7 @@ def api_headers():
 
     headers = {
         "Content-Type": "application/json",
-        "x-api-key": "free_user_3G5JjsPbaj5eUVvBCVZyW4OVvfo"
+        "x-api-key": "YOUR_API_KEY"
     }
 
     yield headers
